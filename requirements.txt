@@ -1,0 +1,6 @@
+#upgrade to last version
+pytest
+Appium-Python-Client
+selenium
+urllib3
+python-dotenv
